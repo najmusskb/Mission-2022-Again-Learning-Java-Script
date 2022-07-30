@@ -52,3 +52,18 @@ var serious = true;
 var fullMarks = true;
 
 var areYouSingle = false;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  variable is a storage 
