@@ -27,3 +27,5 @@ var input = 119;
 var input2 = 5;
 var output = input % input2;
 console.log(output);
+
+
