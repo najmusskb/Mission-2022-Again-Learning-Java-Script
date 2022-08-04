@@ -29,6 +29,9 @@ function bringSingara(money) {
     return quantity;
 }
 
-var picecssingarac = bringSingara(120);
+
+
+var myTk = 250;
+var picecssingarac = bringSingara(myTk);
 
 console.log('final ami koyta singara pabo :', picecssingarac);
