@@ -16,3 +16,14 @@ console.log(result1, result2)
 
 var totalresult = result1 + result2;
 console.log('double return result:', totalresult);
+
+
+
+
+
+
+
+
+
+
+
