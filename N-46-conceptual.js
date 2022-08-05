@@ -1,4 +1,4 @@
-sjkn//1.  deaclare a function  conceptual seasion Date 05.08.22
+//1.  deaclare a function  conceptual seasion Date 05.08.22
 
 
 /* function great(name) {
@@ -192,7 +192,7 @@ console.log(FindLargestnumber(100, 20, 30))
 //  7. java script object
 
 
-/* 
+/*
 
 const car = {
 
@@ -216,7 +216,7 @@ const car = {
 
 
 
-// braket notation 
+// braket notation
 console.log(car['brand']); */
 
 
@@ -246,7 +246,7 @@ console.log(car['brand']); */
 
 
 //  09. object problem __________
-
+/*
 const a = {
 
     name: 'laptop',
@@ -275,6 +275,7 @@ const c = {
 const TotalPrice = a.price + b.price + c.price;
 console.log(TotalPrice)
 
+ */
 
 
 
@@ -288,9 +289,8 @@ console.log(TotalPrice)
 
 
 
-
-//10.  change a object value 
-/* 
+//10.  change a object value
+/*
 const car = {
 
     brand: 'tesla',
@@ -319,10 +319,10 @@ console.log(car.model);
 
 
 
-// 11. Swich case 
+// 11. Swich case
 
 
-
+/*
 const grade = 'A';
 switch (grade) {
     case 'A+':
@@ -340,6 +340,19 @@ switch (grade) {
     default:
         console.log('unkown grade')
 }
+ */
+
+
+
+
+
+
+
+// Problem-04- leap year or not 
+
+
+
+
 
 
 
