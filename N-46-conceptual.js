@@ -350,40 +350,9 @@ switch (grade) {
 
 // Problem-04- leap year or not 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+function print(a, b, c) {
+    return a + 2;
+    return a * b;
+    return b * c + a;
+}
+console.log(print(1, 2, 3));
