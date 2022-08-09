@@ -93,3 +93,18 @@ console.log(Floor);
 
 const random = Math.round(Math.random() * 6);
 console.log(random);
+
+
+
+
+
+
+
+// abs 
+
+const number1 = -78;
+const answer = Math.abs(number1);
+console.log(answer);
+
+
+
